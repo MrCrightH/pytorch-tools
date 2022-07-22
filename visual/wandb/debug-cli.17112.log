@@ -1,0 +1,88 @@
+2022-07-20 21:56:23 INFO open for scan: E:\pycharmprojects\competion\visual\wandb\offline-run-20220720_215003-1p3yu8u0\run-1p3yu8u0.wandb
+2022-07-20 21:56:25 INFO watching files in: E:\pycharmprojects\competion\visual\wandb\offline-run-20220720_215003-1p3yu8u0\files
+2022-07-20 21:56:25 INFO run started: 1p3yu8u0 with start time 1658325004
+2022-07-20 21:56:25 INFO saving file wandb-metadata.json with policy now
+2022-07-20 21:56:25 INFO saving file wandb-summary.json with policy end
+2022-07-20 21:56:25 INFO handling exit code: 255
+2022-07-20 21:56:25 INFO handling runtime: 242
+2022-07-20 21:56:25 INFO saving file wandb-summary.json with policy end
+2022-07-20 21:56:25 INFO send defer
+2022-07-20 21:56:25 INFO handle sender defer: 0
+2022-07-20 21:56:25 INFO send defer: 1
+2022-07-20 21:56:25 INFO handle sender defer: 1
+2022-07-20 21:56:25 INFO send defer: 2
+2022-07-20 21:56:25 INFO handle sender defer: 2
+2022-07-20 21:56:25 INFO send defer: 3
+2022-07-20 21:56:25 INFO handle sender defer: 3
+2022-07-20 21:56:25 INFO send defer: 4
+2022-07-20 21:56:25 INFO handle sender defer: 4
+2022-07-20 21:56:25 INFO send defer: 5
+2022-07-20 21:56:25 INFO handle sender defer: 5
+2022-07-20 21:56:25 INFO send defer: 6
+2022-07-20 21:56:25 INFO handle sender defer: 6
+2022-07-20 21:56:25 INFO shutting down directory watcher
+2022-07-20 21:56:26 INFO file/dir modified: E:\pycharmprojects\competion\visual\wandb\offline-run-20220720_215003-1p3yu8u0\files\config.yaml
+2022-07-20 21:56:26 INFO file/dir modified: E:\pycharmprojects\competion\visual\wandb\offline-run-20220720_215003-1p3yu8u0\files\wandb-summary.json
+2022-07-20 21:56:26 INFO scan: E:\pycharmprojects\competion\visual\wandb\offline-run-20220720_215003-1p3yu8u0\files
+2022-07-20 21:56:26 INFO scan save: E:\pycharmprojects\competion\visual\wandb\offline-run-20220720_215003-1p3yu8u0\files\conda-environment.yaml conda-environment.yaml
+2022-07-20 21:56:26 INFO scan save: E:\pycharmprojects\competion\visual\wandb\offline-run-20220720_215003-1p3yu8u0\files\config.yaml config.yaml
+2022-07-20 21:56:26 INFO scan save: E:\pycharmprojects\competion\visual\wandb\offline-run-20220720_215003-1p3yu8u0\files\output.log output.log
+2022-07-20 21:56:26 INFO scan save: E:\pycharmprojects\competion\visual\wandb\offline-run-20220720_215003-1p3yu8u0\files\requirements.txt requirements.txt
+2022-07-20 21:56:26 INFO scan save: E:\pycharmprojects\competion\visual\wandb\offline-run-20220720_215003-1p3yu8u0\files\wandb-metadata.json wandb-metadata.json
+2022-07-20 21:56:26 INFO scan save: E:\pycharmprojects\competion\visual\wandb\offline-run-20220720_215003-1p3yu8u0\files\wandb-summary.json wandb-summary.json
+2022-07-20 21:56:26 INFO send defer: 7
+2022-07-20 21:56:26 INFO handle sender defer: 7
+2022-07-20 21:56:26 INFO shutting down file pusher
+2022-07-20 21:56:26 INFO shutting down sender
+2022-07-20 21:56:26 INFO shutting down file pusher
+2022-07-20 21:56:26 INFO waiting for file pusher
+2022-07-20 21:56:26 INFO Uploaded file C:\Users\17112\AppData\Local\Temp\tmp8m_nt466wandb\22sa88fp-wandb-metadata.json
+2022-07-20 21:56:26 INFO Uploaded file E:\pycharmprojects\competion\visual\wandb\offline-run-20220720_215003-1p3yu8u0\files\config.yaml
+2022-07-20 21:56:26 INFO Uploaded file E:\pycharmprojects\competion\visual\wandb\offline-run-20220720_215003-1p3yu8u0\files\wandb-summary.json
+2022-07-20 21:56:27 INFO Uploaded file E:\pycharmprojects\competion\visual\wandb\offline-run-20220720_215003-1p3yu8u0\files\requirements.txt
+2022-07-20 21:56:27 INFO Uploaded file E:\pycharmprojects\competion\visual\wandb\offline-run-20220720_215003-1p3yu8u0\files\output.log
+2022-07-20 21:56:27 INFO send defer: 8
+2022-07-21 18:06:36 INFO open for scan: E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\run-10fj3nrg.wandb
+2022-07-21 18:06:38 INFO watching files in: E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\files
+2022-07-21 18:06:38 INFO run started: 10fj3nrg with start time 1658397622
+2022-07-21 18:06:38 INFO saving file wandb-metadata.json with policy now
+2022-07-21 18:06:38 INFO saving file wandb-summary.json with policy end
+2022-07-21 18:06:38 INFO handling exit code: 0
+2022-07-21 18:06:38 INFO handling runtime: 283
+2022-07-21 18:06:38 INFO saving file wandb-summary.json with policy end
+2022-07-21 18:06:38 INFO send defer
+2022-07-21 18:06:38 INFO handle sender defer: 0
+2022-07-21 18:06:38 INFO send defer: 1
+2022-07-21 18:06:38 INFO handle sender defer: 1
+2022-07-21 18:06:38 INFO send defer: 2
+2022-07-21 18:06:38 INFO handle sender defer: 2
+2022-07-21 18:06:38 INFO send defer: 3
+2022-07-21 18:06:38 INFO handle sender defer: 3
+2022-07-21 18:06:38 INFO send defer: 4
+2022-07-21 18:06:38 INFO handle sender defer: 4
+2022-07-21 18:06:38 INFO send defer: 5
+2022-07-21 18:06:38 INFO handle sender defer: 5
+2022-07-21 18:06:38 INFO send defer: 6
+2022-07-21 18:06:38 INFO handle sender defer: 6
+2022-07-21 18:06:38 INFO shutting down directory watcher
+2022-07-21 18:06:39 INFO Uploaded file C:\Users\17112\AppData\Local\Temp\tmptx4jzmjewandb\3i6v876f-wandb-metadata.json
+2022-07-21 18:06:39 INFO file/dir modified: E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\files\wandb-summary.json
+2022-07-21 18:06:39 INFO file/dir modified: E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\files\config.yaml
+2022-07-21 18:06:39 INFO scan: E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\files
+2022-07-21 18:06:39 INFO scan save: E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\files\conda-environment.yaml conda-environment.yaml
+2022-07-21 18:06:39 INFO scan save: E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\files\config.yaml config.yaml
+2022-07-21 18:06:39 INFO scan save: E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\files\output.log output.log
+2022-07-21 18:06:39 INFO scan save: E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\files\requirements.txt requirements.txt
+2022-07-21 18:06:39 INFO scan save: E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\files\wandb-metadata.json wandb-metadata.json
+2022-07-21 18:06:39 INFO scan save: E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\files\wandb-summary.json wandb-summary.json
+2022-07-21 18:06:39 INFO send defer: 7
+2022-07-21 18:06:39 INFO handle sender defer: 7
+2022-07-21 18:06:39 INFO shutting down file pusher
+2022-07-21 18:06:39 INFO shutting down sender
+2022-07-21 18:06:39 INFO shutting down file pusher
+2022-07-21 18:06:39 INFO waiting for file pusher
+2022-07-21 18:06:40 INFO Uploaded file E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\files\wandb-summary.json
+2022-07-21 18:06:40 INFO Uploaded file E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\files\requirements.txt
+2022-07-21 18:06:40 INFO Uploaded file E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\files\output.log
+2022-07-21 18:06:41 INFO Uploaded file E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\files\config.yaml
+2022-07-21 18:06:41 INFO send defer: 8

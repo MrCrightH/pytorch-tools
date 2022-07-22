@@ -1,0 +1,33 @@
+2022-07-21 18:00:22,021 INFO    MainThread:13384 [wandb_setup.py:_flush():76] Configure stats pid to 13384
+2022-07-21 18:00:22,022 INFO    MainThread:13384 [wandb_setup.py:_flush():76] Loading settings from C:\Users\17112\.config\wandb\settings
+2022-07-21 18:00:22,022 INFO    MainThread:13384 [wandb_setup.py:_flush():76] Loading settings from E:\pycharmprojects\competion\visual\wandb\settings
+2022-07-21 18:00:22,022 INFO    MainThread:13384 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-21 18:00:22,023 INFO    MainThread:13384 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'wandb_tools.py', 'program': 'wandb_tools.py'}
+2022-07-21 18:00:22,024 INFO    MainThread:13384 [wandb_init.py:_log_setup():461] Logging user logs to E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\logs\debug.log
+2022-07-21 18:00:22,026 INFO    MainThread:13384 [wandb_init.py:_log_setup():462] Logging internal logs to E:\pycharmprojects\competion\visual\wandb\offline-run-20220721_180021-10fj3nrg\logs\debug-internal.log
+2022-07-21 18:00:22,027 INFO    MainThread:13384 [wandb_init.py:init():495] calling init triggers
+2022-07-21 18:00:22,027 INFO    MainThread:13384 [wandb_init.py:init():498] wandb.init called with sweep_config: {}
+config: {'batch_size': 64, 'epochs': 2, 'learning_rate': 1, 'gamma': 0.7}
+2022-07-21 18:00:22,027 INFO    MainThread:13384 [wandb_init.py:init():548] starting backend
+2022-07-21 18:00:22,028 INFO    MainThread:13384 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2022-07-21 18:00:22,129 INFO    MainThread:13384 [backend.py:ensure_launched():217] starting backend process...
+2022-07-21 18:00:22,283 INFO    MainThread:13384 [backend.py:ensure_launched():222] started backend process with pid: 11148
+2022-07-21 18:00:22,297 INFO    MainThread:13384 [wandb_init.py:init():558] backend started and connected
+2022-07-21 18:00:22,307 INFO    MainThread:13384 [wandb_init.py:init():634] updated telemetry
+2022-07-21 18:00:22,324 INFO    MainThread:13384 [wandb_init.py:init():700] starting run threads in backend
+2022-07-21 18:00:25,416 INFO    MainThread:13384 [wandb_run.py:_console_start():1893] atexit reg
+2022-07-21 18:00:25,417 INFO    MainThread:13384 [wandb_run.py:_redirect():1766] redirect: SettingsConsole.WRAP
+2022-07-21 18:00:25,417 INFO    MainThread:13384 [wandb_run.py:_redirect():1803] Wrapping output streams.
+2022-07-21 18:00:25,418 INFO    MainThread:13384 [wandb_run.py:_redirect():1827] Redirects installed.
+2022-07-21 18:00:25,418 INFO    MainThread:13384 [wandb_init.py:init():732] run started, returning control to user process
+2022-07-21 18:05:06,917 INFO    MainThread:13384 [wandb_run.py:_atexit_cleanup():1862] got exitcode: 0
+2022-07-21 18:05:06,919 INFO    MainThread:13384 [wandb_run.py:_restore():1834] restore
+2022-07-21 18:05:08,144 INFO    MainThread:13384 [wandb_run.py:_on_finish():1991] got exit ret: 
+2022-07-21 18:05:08,251 INFO    MainThread:13384 [wandb_run.py:_on_finish():1991] got exit ret: done: true
+exit_result {
+}
+local_info {
+}
+
+2022-07-21 18:05:09,649 INFO    MainThread:13384 [wandb_run.py:_footer_history_summary_info():3099] rendering history
+2022-07-21 18:05:09,651 INFO    MainThread:13384 [wandb_run.py:_footer_history_summary_info():3131] rendering summary

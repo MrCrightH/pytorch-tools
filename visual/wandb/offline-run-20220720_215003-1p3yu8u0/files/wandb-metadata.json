@@ -1,0 +1,16 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.0",
+    "heartbeatAt": "2022-07-20T13:50:08.695973",
+    "startedAt": "2022-07-20T13:50:03.905734",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "wandb_tools.py",
+    "codePath": "wandb_tools.py",
+    "host": "DESKTOP-B4E3J3B",
+    "username": "17112",
+    "executable": "E:\\Anaconda3\\envs\\py38\\python.exe"
+}
